@@ -62,7 +62,7 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AlexGDevX&theme=transparent&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=450&card_height=200" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AlexGDevX&theme=transparent&border_radius=15&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=450&card_height=200&border=30C7EBBC" alt="GitHub Streak" /></a>
 </div>
 
 ###

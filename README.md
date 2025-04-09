@@ -54,15 +54,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
-
----
-
-<h3 align="center">🔥 My Stats 🔥</h3>
-
-###
-
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AlexGDevX&theme=transparent&border_radius=15&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=450&card_height=200&border=30C7EBBC" alt="GitHub Streak" /></a>
-</div>
-
-###
